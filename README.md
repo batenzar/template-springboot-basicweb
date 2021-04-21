@@ -1,4 +1,7 @@
 # Template Project
+![](https://img.shields.io/github/languages/code-size/batenzar/template-springboot-basicweb)
+![](https://img.shields.io/tokei/lines/github/batenzar/template-springboot-basicweb)
+
 Simple template for web development using Spring Boot in Eclipse
 
 ### Dependency
